@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11/03/17
 
 ### Student Name:  
-(First and Last Name)
+Zach Nolan
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We learned more advanced JavaScript and created an interactive slideshow.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. the PreviewFive() function allows the gallery to display 5 images.
+2. the LeftArrow() function makes the gallery shift images to the left 
+3. the PopulateFigures() function adds src values to img elements based on specific order 
